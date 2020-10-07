@@ -1,0 +1,14 @@
+[{
+	"modid"        : "revenant",
+	"name"         : "Revenant",
+	"description"  : "Revenant client base.";
+	"version"      : "0.4.0",
+	"mcversion"    : "1.12.2-14.23.5.2772",
+	"url"          : "",
+	"updateUrl"    : "",
+	"authorList"   : ["Rina", "Raccoon"];
+	"credits"      : "Rina",
+	"logoFile"     : "",
+	"screenshots"  : [],
+	"dependencies" : []
+}]

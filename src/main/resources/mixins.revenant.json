@@ -1,0 +1,10 @@
+{
+  "required"           : true,
+  "compatibilityLevel" : "JAVA_8",
+  "package"            : "me.rina.racc.client.mixins",
+  "refmap"             : "mixins.revenant.refmap.json",
+  "mixins"             : [
+    "RevenantMixinNetworkManager",
+    "RevenantMinecraftMixin"
+  ]
+}
