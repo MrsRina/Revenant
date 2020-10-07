@@ -2,6 +2,8 @@ package me.rina.racc.manager;
 
 // Minecraft.
 import me.rina.racc.client.modules.combat.RevenantAutoCrystal;
+import me.rina.racc.client.modules.player.RevenantAutoReplenish;
+import me.rina.racc.client.modules.player.RevenantFastUse;
 import net.minecraftforge.client.event.RenderWorldLastEvent;
 import net.minecraft.client.renderer.GlStateManager;
 import org.lwjgl.opengl.GL11;
@@ -59,6 +61,8 @@ public class RevenantModuleManager {
         // Movement category modules.
 
         // Player category modules.
+        addModuleInList(new RevenantFastUse());
+        addModuleInList(new RevenantAutoReplenish());
 
         // Render category modules.
 
