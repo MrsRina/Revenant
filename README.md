@@ -4,6 +4,7 @@ shoutout @rina\
 https://github.com/SirRina \
 hs is the best\
 rina the only one that can code\
+linus is a based god\
 lotta skidded code from the other devs\
 dont @me
 
