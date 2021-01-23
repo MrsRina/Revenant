@@ -1,2 +1,3 @@
 # Revenant
-Revenant is based asf.
+bad cient that with devs that did nothing
+s/o @rina
